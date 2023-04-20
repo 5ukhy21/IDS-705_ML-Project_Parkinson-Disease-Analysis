@@ -10,7 +10,7 @@ This study provides a detailed walkthrough of crucial assumptions made, the deve
 
 ## Data
 This project consisted of 3 files: clinical trial data, peptide data, and protein data.
-All associated training files are provided in the source repository `00_source_data`.
+All associated training and test files are provided in the source repository `00_source_data`.
 
 ## Flowchart
 <img width="441" alt="ML Flowchart Parkinsons Disease" src="https://user-images.githubusercontent.com/112578035/233227559-adc39a5a-e096-4091-8232-87c743a950d2.png">
