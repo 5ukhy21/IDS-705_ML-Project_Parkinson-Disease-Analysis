@@ -22,7 +22,7 @@ Open your terminal and run the following lines in order:
 
 2. `cd 10_code`
 
-From here you'll be able to run any of notebooks in the repository without any trouble.
+From here you'll be able to run any of notebooks in the repository without any trouble (with the exception of changing directory of source data).
 
 The notebook used to generated the results found from our report is `best score.ipynb`
 
