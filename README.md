@@ -24,6 +24,9 @@ You can download all datasets here: https://www.kaggle.com/competitions/amp-park
 <img width="441" alt="ML Flowchart Parkinsons Disease" src="https://user-images.githubusercontent.com/112578035/233227559-adc39a5a-e096-4091-8232-87c743a950d2.png">
 </p>
 
+## Final Predicting Results
+<img width="266" alt="Screen Shot 2023-04-21 at 1 23 14 AM" src="https://user-images.githubusercontent.com/112274822/233547449-05f0b87f-539e-428d-9654-1d1721d91eb9.png">
+
 ## How-To-Get-Started Guide
 Open your terminal and run the following lines in order: 
 
