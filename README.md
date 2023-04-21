@@ -17,6 +17,7 @@ This study provides a detailed walkthrough of crucial assumptions made, the deve
 ## Data
 This project consisted of 3 files: clinical trial data, peptide data, and protein data.
 All associated training and test files are provided in the source repository `00_source_data`.
+You can download all datasets here: https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/data
 
 ## Project Methodology Flowchart
 <p align="center">
