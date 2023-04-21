@@ -25,6 +25,8 @@ You can download all datasets here: https://www.kaggle.com/competitions/amp-park
 </p>
 
 ## Final Predicting Results
+<img width="868" alt="Screen Shot 2023-04-21 at 1 24 28 AM" src="https://user-images.githubusercontent.com/112274822/233547580-7602d5fc-60ad-4ecb-8e8a-553711f86e42.png">
+
 <img width="266" alt="Screen Shot 2023-04-21 at 1 23 14 AM" src="https://user-images.githubusercontent.com/112274822/233547449-05f0b87f-539e-428d-9654-1d1721d91eb9.png">
 
 ## How-To-Get-Started Guide
