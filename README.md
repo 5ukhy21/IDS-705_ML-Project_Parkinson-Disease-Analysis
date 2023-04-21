@@ -6,6 +6,9 @@ Parkinson’s Disease**
 ## Project Video
 https://www.youtube.com/watch?v=QoQLmDszVCw
 
+## Kaggle Link
+https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction
+
 ## Project Description
 Parkinson's Disease is a neurodegenerative disorder that affects millions of people worldwide. The progression of the disease is commonly measured using the Movement Disorder Society - Unified Parkinson's Disease Rating Scale (MDS-UPDRS) scores, which assess motor and non-motor symptoms. The Accelerating Medicines Partnership Parkinson's Disease (AMP-PD) Progression Prediction Kaggle competition seeks to discover unforeseen patterns and predict the progression of Parkinson's Disease using clinical UPDRS scores and peptide and protein abundance data captured from cerebrospinal fluid (CSF) samples. Unlike previous studies that have solely focused on statistical models and peptide/protein levels, our project and this data science competition will be unique in approach as it combines this information with clinical data and analyzes it all together, potentially contributing to a better understanding of the disease and ultimately leading to improved treatments for patients through UPDRS scores.
 
